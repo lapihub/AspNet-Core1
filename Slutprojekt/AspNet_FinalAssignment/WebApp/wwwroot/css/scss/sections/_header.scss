@@ -1,0 +1,141 @@
+﻿header {
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    .container {
+        display: grid;
+        align-items: center;
+        gap: 40px;
+        grid-template-columns: 1fr auto;
+        grid-template-areas: "logo hamburger";
+
+        @include md {
+            grid-template-columns: 1fr auto auto;
+            grid-template-areas: "logo switch hamburger";
+        }
+
+        @include xl {
+            grid-template-columns: auto 1fr auto auto;
+            grid-template-areas: "logo nav switch account";
+        }
+
+        .logo {
+            grid-area: logo;
+        }
+
+        nav {
+            grid-area: nav;
+            position: relative;
+            display: none;
+            transform: translateX(100%);
+            transition: transform 1.3s ease-in-out;
+            padding-top: 100px;
+
+            @include xl {
+                position: static;
+                transform: none;
+                display: flex;
+                gap: 20px;
+                padding-top: 0;
+            }
+
+            &.active {
+                display: block;
+                background-color: var(--color-gray-800);
+                position: fixed;
+                top: 0;
+                right: 0;
+                height: 100%;
+                width: 100%;
+                transform: translateX(0);
+                transition: transform 1.3s ease-in-out;
+                z-index: 20;
+
+                @include md {
+                    width: 50%;
+                    z-index: 20;
+                }
+            }
+
+            a {
+                display: block;
+                color: var(--color-white) !important;
+                text-align: center;
+                padding: 20px;
+
+                @include xl {
+                    padding: 0;
+                    color: var(--color-gray-900) !important;
+                }
+            }
+        }
+
+        .theme-switch {
+            grid-area: switch;
+            display: none;
+
+            @include md {
+                display: block;
+            }
+        }
+
+        .account-buttons {
+            grid-area: account;
+            display: none;
+            gap: 15px;
+
+            @include xl {
+                display: flex;
+            }
+
+            .profile {
+                display: flex;
+                justify-content: center;
+
+                .image {
+                    position: relative;
+
+                    img {
+                        border-radius: 50%;
+                        height: 60px;
+                        width: 60px;
+                        object-fit: cover;
+                        border: 1px solid var(--color-gray-400);
+                    }
+
+                    form {
+                        position: relative;
+
+                        label {
+                            position: absolute;
+                            bottom: 10px;
+                            right: 0;
+                        }
+                    }
+                }
+            }
+        }
+
+        .btn-menu {
+            grid-area: hamburger;
+            z-index: 20;
+
+            @include xl {
+                display: none;
+            }
+
+            &:hover {
+                cursor: pointer;
+            }
+        }
+
+        .btn-mobile {
+            grid-area: mobile;
+            z-index: 20;
+
+            @include xl {
+                display: none;
+            }
+        }
+    }
+}

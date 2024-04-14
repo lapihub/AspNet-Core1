@@ -1,0 +1,100 @@
+﻿.signup {
+    margin-bottom: 30px;
+
+    .container {
+        width: 95%;
+
+        form {
+            margin-bottom: 30px;
+
+            h1 {
+                font-size: 50px;
+                font-weight: 800;
+                margin-bottom: 0;
+            }
+
+            .form-content {
+                margin-top: 30px;
+                display: grid;
+                gap: 10px;
+                grid-template-columns: 1fr;
+                grid-template-areas: "firstname" "lastname" "email" "password" "confirm" "terms" "submit";
+            }
+
+            .input-group {
+                label {
+                    padding: 3px;
+                }
+            }
+
+            .checkbox-group {
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+
+
+            #firstName {
+                grid-area: firstname;
+            }
+
+            #lastName {
+                grid-area: lastname;
+            }
+
+            #email {
+                grid-area: email;
+            }
+
+            #password {
+                grid-area: password;
+            }
+
+            #confirm {
+                grid-area: confirm;
+            }
+
+            #terms {
+                grid-area: terms;
+            }
+
+            .checkbox-group {
+                grid-area: terms;
+                margin-bottom: 30px;
+                margin-top: 0.8em;
+            }
+
+            #btn-submit {
+                @include shadow-theme;
+                grid-area: submit;
+                font-size: 16px;
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+@media (min-width: 992px) {
+    .signup {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        .container {
+            width: 40%;
+
+            form {
+                .form-content {
+                    grid-template-columns: 1fr 1fr;
+                    grid-template-areas: "firstname lastname" "email email" "password password" "confirm confirm" "terms terms" "submit submit";
+                }
+
+                .input-group {
+                    label {
+                        padding: 3px;
+                    }
+                }
+            }
+        }
+    }
+}

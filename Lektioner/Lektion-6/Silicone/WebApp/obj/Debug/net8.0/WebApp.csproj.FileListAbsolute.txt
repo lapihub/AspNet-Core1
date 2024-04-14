@@ -1,0 +1,374 @@
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Nackademin\Asp.Net-Core\Silicone\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 3\Silicone\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion 4\Silicone\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Humanizer.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Infrastructure.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\bin\Debug\net8.0\Infrastructure.pdb
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.csproj.Up2Date
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-5\Silicone\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Humanizer.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.CodeDom.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Infrastructure.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\bin\Debug\net8.0\Infrastructure.pdb
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.csproj.Up2Date
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Nackademin\Asp.Net-Core\Lektioner\Lektion-6\Silicone\WebApp\obj\Debug\net8.0\ref\WebApp.dll

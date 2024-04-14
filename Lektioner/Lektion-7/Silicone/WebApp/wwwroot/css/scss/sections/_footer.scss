@@ -1,0 +1,39 @@
+﻿footer {
+    padding-top: 30px;
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        nav {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            gap: 20px;
+
+            .social-btn {
+                display: flex;
+                align-items: center;
+                padding: 12px;
+                border-radius: 6px;
+                border: solid 2px var(--color-gray-200);
+                background-color: var(--color-gray-200);
+                transition: all 0.12s ease-in-out;
+
+                &:hover {
+                    background-color: var(--color-white);
+                    border-color: var(--color-gray-300);
+                    cursor: pointer;
+                }
+            }
+        }
+
+        p {
+            @include font-s;
+            color: var(--color-gray-600);
+            max-width: 65%;
+            text-align: center;
+        }
+    }
+}

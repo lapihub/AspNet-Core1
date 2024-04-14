@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-6\\silicone\\webapp\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\auth\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-6\\silicone\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-6\\silicone\\webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98505A32-9D22-4A2F-A33F-1BD85DB3E88D}|Infrastructure\\Infrastructure.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-6\\silicone\\infrastructure\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98505A32-9D22-4A2F-A33F-1BD85DB3E88D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\contexts\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-6\\silicone\\webapp\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-6\\silicone\\webapp\\wwwroot\\css\\scss\\components\\_boxes.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\scss\\components\\_boxes.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\WebApp\\Views\\Auth\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Auth\\SignIn.cshtml",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\WebApp\\Views\\Auth\\SignIn.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Auth\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T19:30:39.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:28:04.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\WebApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\WebApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:27:12.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\Infrastructure\\Contexts\\DataContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Contexts\\DataContext.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\Infrastructure\\Contexts\\DataContext.cs",
+              "RelativeToolTip": "Infrastructure\\Contexts\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T19:26:57.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_boxes.scss",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\WebApp\\wwwroot\\css\\scss\\components\\_boxes.scss",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\scss\\components\\_boxes.scss",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\WebApp\\wwwroot\\css\\scss\\components\\_boxes.scss",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\scss\\components\\_boxes.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-04-05T22:49:51.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\WebApp\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-6\\Silicone\\WebApp\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Courses\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T22:49:34.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿﻿<header>
+    <div class="container">
+        <a asp-action="Home" asp-controller="Default" class="logo"><img src="~/images/logos/silicon-logo.svg" alt="silicon"></a>
+
+        <nav>
+            <a asp-action="Home" asp-controller="Default" class="nav-link">Overview</a>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <a asp-action="Index" asp-controller="Courses" class="nav-link">Courses</a>
+            }
+            else
+            {
+                <a asp-action="Home" asp-controller="Default" class="nav-link">Features</a>
+            }
+            <a asp-action="Contact" asp-controller="Default" class="nav-link">Contact</a>
+        </nav>
+
+        <div class="theme-switch">
+            <label for="theme-switch-mode">Light</label>
+            <label class="switch">
+                <input id="theme-switch-mode" type="checkbox">
+                <span class="slider round"></span>
+            </label>
+            <label for="theme-switch-mode">Dark</label>
+        </div>
+
+        @if (User.Identity.IsAuthenticated)
+        {
+            <div class="account-buttons">
+                @*Profile action och controller ska ändras, när vi fixar den filen. *@
+                <a asp-action="Profile" asp-controller="Auth" class="account"><img src="~/images/profile/profile-1.svg" alt="Profile"></a>
+                <a asp-action="SignOut" asp-controller="Auth" class="btn-theme"><i class="fa-regular fa-arrow-right-from-bracket"></i>Sign out</a>
+            </div>
+        }
+        else
+        {
+            <div class="account-buttons">
+                <a asp-action="SignIn" asp-controller="Auth" class="btn-secondary">
+                    <i class="fa-regular fa-arrow-right-to-bracket"></i> Sign in
+                </a>
+                <a asp-action="SignUp" asp-controller="Auth" class="btn-theme">
+                    <i class="fa-regular fa-user"></i> Sign up
+                </a>
+            </div>
+        }
+
+        <button class="btn-menu"><i class="fa-regular fa-bars"></i></button>
+    </div>
+</header>

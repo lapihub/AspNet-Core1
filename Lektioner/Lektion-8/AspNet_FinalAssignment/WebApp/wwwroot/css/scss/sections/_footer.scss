@@ -1,0 +1,39 @@
+﻿footer {
+    margin: 20px;
+
+    .container {
+        text-align: center;
+
+        .social-media {
+            display: none;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 20px;
+
+            @include md {
+                display: flex;
+            }
+
+        }
+
+        .copyright {
+            font-size: 14px;
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            color: var(--color-gray-600);
+
+            @include lg {
+                width: 60%;
+            }
+
+            span {
+                display: none;
+
+                @include xxl {
+                    display: inline; //gör så att hela texten syns vid större media
+                }
+            }
+        }
+    }
+}

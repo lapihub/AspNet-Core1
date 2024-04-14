@@ -1,0 +1,53 @@
+﻿.tools {
+    padding: 50px 0;
+
+    .container {
+        display: none;
+
+        @include md {
+            display: grid;
+        }
+
+        @include xl {
+            display: grid;
+        }
+
+        .section-title {
+            text-align: center;
+
+
+            h1 {
+                font-size: 34px;
+            }
+
+            p {
+
+                @include xl {
+                    padding: 0 200px 0;
+                }
+            }
+        }
+
+        .tool-features {
+            margin-top: 40px;
+            display: grid;
+            grid-template-columns: 1fr;
+
+            @include md {
+                grid-template-columns: 1fr 1fr;
+            }
+
+            @include xl {
+                grid-template-columns: 1fr 1fr 1fr 1fr;
+            }
+
+            p {
+                color: var(--color-gray-700);
+            }
+
+            .tool-box{
+                padding: 30px;
+            }
+        }
+    }
+}

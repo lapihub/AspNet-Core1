@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-5\\silicone-1\\webapp\\wwwroot\\css\\scss\\sections\\_subscribe.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\scss\\sections\\_subscribe.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-5\\silicone-1\\webapp\\wwwroot\\css\\scss\\_sections.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\scss\\_sections.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-5\\silicone-1\\webapp\\wwwroot\\css\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\wwwroot\\css\\site.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-5\\silicone-1\\webapp\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-5\\silicone-1\\webapp\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-5\\silicone-1\\webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-5\\silicone-1\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-5\\silicone-1\\webapp\\views\\partials\\sections\\_subscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\partials\\sections\\_subscribe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.scss",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\wwwroot\\css\\site.scss",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\site.scss",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\wwwroot\\css\\site.scss",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\site.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-04-01T19:35:29.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_sections.scss",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\wwwroot\\css\\scss\\_sections.scss",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\scss\\_sections.scss",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\wwwroot\\css\\scss\\_sections.scss",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\scss\\_sections.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-04-01T19:34:04.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_subscribe.scss",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\wwwroot\\css\\scss\\sections\\_subscribe.scss",
+              "RelativeDocumentMoniker": "WebApp\\wwwroot\\css\\scss\\sections\\_subscribe.scss",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\wwwroot\\css\\scss\\sections\\_subscribe.scss",
+              "RelativeToolTip": "WebApp\\wwwroot\\css\\scss\\sections\\_subscribe.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-04-01T19:33:25.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:29:29.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:28:32.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Subscribe.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\Views\\Partials\\Sections\\_Subscribe.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Partials\\Sections\\_Subscribe.cshtml",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\Views\\Partials\\Sections\\_Subscribe.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Partials\\Sections\\_Subscribe.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:28:21.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\Views\\Default\\Home.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Default\\Home.cshtml",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\Views\\Default\\Home.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Default\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:28:13.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-5\\Silicone-1\\WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T19:28:41.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

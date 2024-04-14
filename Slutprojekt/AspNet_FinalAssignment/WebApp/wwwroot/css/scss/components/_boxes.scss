@@ -1,0 +1,28 @@
+﻿.feature-box {
+    padding: 20px;
+    transition: all 0.1s ease-in-out;
+
+    &:hover {
+        background-color: var(--color-white);
+        box-shadow: 0 8px 18px -8px var(--color-gray-400);
+    }
+
+
+    h5 {
+        font-size: 20px;
+        margin: 0;
+    }
+
+    img {
+        padding: 20px;
+        border-radius: 8px;
+    }
+}
+
+.tool-box {
+
+    &:hover {
+        box-shadow: 0 8px 18px -8px var(--color-gray-400);
+    }
+
+}

@@ -1,0 +1,69 @@
+﻿.dashboard {
+    justify-content: center;
+    align-items: center;
+
+    .container {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 100px;
+        height: 90%;
+
+        .dashboard-image {
+            display: none;
+
+            img {
+                width: 100%;
+                max-width: 100%;
+                height: auto;
+            }
+        }
+
+        @include sm {
+            .dashboard-image {
+                display: block;
+            }
+        }
+
+
+        @include lg {
+            height: 100%;
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        .manage-work {
+            margin: 30px 50px 40px;
+
+
+            @include lg {
+                margin-top: 0;
+            }
+
+
+            h2 {
+                @include font-extrabold;
+            }
+
+            .manage-tasks {
+                margin-top: 2rem;
+
+                .manage-task {
+                    display: flex;
+                    align-items: center;
+                    gap: 10px;
+                    margin-top: 10px;
+
+                    p {
+                        margin: 0;
+                        color: var(--color-gray-700);
+                        font-size: 16px;
+                    }
+                }
+            }
+
+            .learn-more {
+                @include font-semibold;
+                margin-top: 2rem;
+            }
+        }
+    }
+}

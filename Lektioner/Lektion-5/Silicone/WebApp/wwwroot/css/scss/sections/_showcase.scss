@@ -1,0 +1,98 @@
+﻿.showcase {
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    @include xl {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas: "content image";
+        padding-left: 60px;
+    }
+
+    .showcase-image {
+        grid-area: image;
+        width: 100%;
+    }
+
+
+    .container {
+        grid-area: content;
+        display: grid;
+        gap: 20px;
+        grid-template-columns: 1fr;
+
+
+        .content {
+            font-size: 1rem;
+            padding-bottom: 50px;
+
+            h1 {
+                text-align: center;
+                @include font-h2;
+
+                @include xl {
+                    @include font-d4;
+                    text-align: left;
+                }
+            }
+
+            p {
+                text-align: center;
+                font-size: 1.125em;
+                padding: 20px 0 50px 0;
+                color: var(--color-gray-700);
+
+                @include xl {
+                    text-align: left;
+                }
+            }
+
+            .get-started {
+                display: flex;
+                justify-content: center;
+
+                @include xl {
+                    display: inline-block;
+                }
+
+                .btn-theme{
+                    @include shadow-theme;
+                }
+
+            }
+
+            .brands {
+                display: none;
+                text-align: center;
+
+                @include xl {
+                    text-align: left;
+                    display: block;
+                }
+
+                h6 {
+                    margin: 100px 0 50px 0;
+
+                    @include xl {
+                        text-align: left;
+                        margin: 100px 0 20px 0;
+                    }
+                }
+
+                .brands-logos {
+                    display: flex;
+                    gap: 20px;
+
+                    .brand-logo {
+                        width: 120px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.placeholder {
+    height: 300px;
+    background-color: antiquewhite;
+}

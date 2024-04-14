@@ -1,0 +1,33 @@
+﻿.tools {
+    background-color: var(--color-white);
+    padding: 60px 0;
+
+    .container {
+        text-align: center;
+
+        .section-title {
+            p {
+                color: var(--color-gray-600);
+            }
+        }
+
+        .tool-features {
+            margin-top: 40px;
+            display: grid;
+            grid-template-columns: 1fr;
+
+            @include md {
+                grid-template-columns: 1fr 1fr;
+            }
+
+            @include xl {
+                grid-template-columns: 1fr 1fr 1fr;
+            }
+
+            p {
+                color: var(--color-gray-700);
+            }
+           
+        }
+    }
+}

@@ -1,0 +1,47 @@
+﻿*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    @include font-standard;
+    margin: 0;
+    font-family: var(--font-manrope);
+    font-weight: var(--font-weight-regular);
+    font-size: 16px;
+    color: var(--color-gray-700);
+    background-color: var(--color-white);
+    line-height: 1.5;
+}
+
+a {
+    @include font-standard;
+    color: var(--color-theme);
+    font-size: 1em;
+    display: inline-block;
+
+    &:active,
+    &:visited,
+    &:focus,
+    &:hover {
+        color: var(--color-theme);
+    }
+
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.nav-link {
+    @include font-semibold;
+    color: var(--color-gray-900) !important;
+    text-decoration: none;
+    font-size: 1em;
+    display: inline-block;
+
+    &:active,
+    &.active,
+    &:hover {
+        color: var(--color-theme) !important;
+        text-decoration: underline;
+    }
+}

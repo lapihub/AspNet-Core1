@@ -1,0 +1,25 @@
+﻿﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebApp</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+
+    <div class="wrapper">
+        <partial name="~/Views/Partials/Sections/_Header.cshtml" />
+
+        <main>
+            @RenderBody()
+        </main>
+
+        <partial name="~/Views/Partials/Sections/_Footer.cshtml" />
+    </div>
+
+    <script src="https://kit.fontawesome.com/a041cc045c.js" asp-append-version="true" crossorigin="anonymous"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

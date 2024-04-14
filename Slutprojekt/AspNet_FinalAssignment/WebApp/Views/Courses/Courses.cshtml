@@ -1,0 +1,113 @@
+﻿@model CoursesViewModel
+@{
+    ViewData["Title"] = "Our Courses";
+}
+
+<section class="courses">
+    <div class="container">
+        <div class="navigation">
+            <a class="#" asp-action="Home" asp-controller="Default"><i class="fa-regular fa-light fa-house"></i>Home</a>
+            <i class="fa-solid fa-chevrons-right"></i> <span>Courses</span>
+        </div>
+
+        <div class="header">
+            <h1>Courses</h1>
+            <form class="filters">
+
+                <div class="select">
+                    <div class="selected">All categories</div>
+                    <div class="select-options">
+                        <div class="option" data-value="all">All categories</div>
+                        @if (Model.Categories != null)
+                        {
+                            @foreach (var category in Model.Categories)
+                            {
+                                <div class="option" data-value="@category.CategoryName">@category.CategoryName</div>
+                            }
+                        }
+                    </div>
+                </div>
+
+                <div class="input-search-group">
+                    <input id="searchQuery" name="searchQuery" placeholder="Search courses" />
+                    <i class="fa-regular fa-search"></i>
+                </div>
+            </form>
+        </div>
+
+        <div class="items">
+            @if (Model.Courses != null)
+            {
+                @foreach (var course in Model.Courses)
+                {
+                    <a class="course" asp-action="Courses" asp-controller="Courses" asp-route-id="@course.Id">
+                        @if (course.IsBestseller)
+                        {
+                            <div class="bestseller">Best Seller</div>
+                        }
+
+                        <button class="btn btn-circle bookmark"><i class="fa-regular fa-bookmark"></i></button>
+
+                        <img src="~/images/courses/@course.ImageUrl" alt="@course.Title" />
+
+                        <div class="content">
+                            <h5 class="title">@course.Title</h5>
+                            <p class="author">By @course.Author</p>
+                            <div class="pricing">
+                                @if (!string.IsNullOrEmpty(course.DiscountPrice))
+                                {
+                                    <div class="discount">@course.DiscountPrice</div>
+                                }
+
+                                <div class="original @(!string.IsNullOrEmpty(course.DiscountPrice) ? "discount-enabled" : "")">@course.OriginalPrice</div>
+                            </div>
+                            <div class="footer">
+                                <div class="hours">
+                                    <i class="fa-regular fa-clock"></i> @course.Hours hours
+                                </div>
+                                <div class="likes">
+                                    <i class="fa-regular fa-thumbs-up"></i> @course.LikesInProcent (@course.NumberOfLikes)
+                                </div>
+                            </div>
+                        </div>
+
+                    </a>
+                }
+            }
+        </div>
+
+        @if (Model.Pagination != null && Model.Pagination.TotalPages > 1)
+        {
+            <div class="pagination">
+                @for (int i = 1; i <= Model.Pagination.TotalPages; i++)
+                {
+                    if (i == Model.Pagination.CurrentPage)
+                    {
+                        <span class="number active">@i</span>
+                    }
+                    else
+                    {
+                        <a class="number" href="@Url.Action("Courses", new { pageNumber = i, pageSize = Model.Pagination.PageSize })">@i</a>
+                    }
+                }
+            </div>
+        }
+    </div>
+</section>
+<section class="section-skills">
+    <div class="container">
+
+        <div class="skills-container">
+            <div class="text-container">
+                <p>Ready to get started?</p>
+                <h2>Take Your <span>Skills</span> to the Next Level</h2>
+                <a class="btn-theme" asp-action="Home" asp-controller="Default">Work with us</a>
+            </div>
+
+            <div class="img-container">
+                <img src="~/images/courses/illustration.svg" />
+            </div>
+        </div>
+
+    </div>
+</section>

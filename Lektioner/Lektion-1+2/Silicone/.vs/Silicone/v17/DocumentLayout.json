@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-1\u002B2\\Silicone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|c:\\nackademin\\asp.net-core\\lektioner\\lektion-1\u002B2\\silicone\\webapp\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F18E7BB-80E7-4AFB-9FC5-167669A7219B}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\default\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-1\u002B2\\Silicone\\WebApp\\Views\\Default\\Home.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Default\\Home.cshtml",
+              "ToolTip": "C:\\Nackademin\\Asp.Net-Core\\Lektioner\\Lektion-1\u002B2\\Silicone\\WebApp\\Views\\Default\\Home.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Default\\Home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T15:10:33.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 183,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

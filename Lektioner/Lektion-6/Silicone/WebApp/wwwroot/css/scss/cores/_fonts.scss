@@ -1,0 +1,173 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+$font-marope: "Manrope", "sans-serif";
+
+/*#region Base fonts*/
+@mixin font {
+    font-family: $font-marope;
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+@mixin heading {
+    @include font;
+    font-weight: 800;
+    line-height: 1.3;
+}
+
+@mixin font-text {
+    @include font-standard;
+    line-height: 1.6;
+    color: var(--color-gray-700);
+}
+/*#endregion */
+
+/*#region Strokes*/
+@mixin font-standard {
+    @include font;
+    font-weight: 400;
+}
+
+@mixin font-medium {
+    @include font;
+    font-weight: 500;
+}
+
+@mixin font-semibold {
+    @include font;
+    font-weight: 600;
+}
+
+@mixin font-bold {
+    @include font;
+    font-weight: 700;
+}
+
+@mixin font-extrabold {
+    @include font;
+    font-weight: 800;
+}
+/*#endregion */
+
+/*#region Displays*/
+@mixin font-d1 {
+    @include heading;
+    font-size: 5em !important;
+}
+
+@mixin font-d2 {
+    @include heading;
+    font-size: 4.5em !important;
+}
+
+@mixin font-d3 {
+    @include heading;
+    font-size: 4em !important;
+}
+
+@mixin font-d4 {
+    @include heading;
+    font-size: 3.5em !important;
+}
+
+@mixin font-d5 {
+    @include heading;
+    font-size: 3em !important;
+}
+
+@mixin font-d6 {
+    @include heading;
+    font-size: 2.625em !important;
+}
+/*#endregion */
+
+/*#region Headers*/
+h1 {
+    @include heading;
+    font-size: 2.5em !important;
+}
+
+h2 {
+    @include heading;
+    font-size: 2em !important;
+}
+
+h3 {
+    @include heading;
+    font-size: 1.75em !important;
+}
+
+h4 {
+    @include heading;
+    font-size: 1.5em !important;
+    line-height: 1.4;
+}
+
+h5 {
+    @include heading;
+    font-size: 1.25em !important;
+    line-height: 1.4;
+}
+
+h6 {
+    @include heading;
+    font-size: 1em !important;
+    line-height: 1.4;
+}
+/*#endregion */
+
+/*#region BodyText*/
+@mixin font-Lead {
+    @include font-text;
+    font-size: 1.5em !important;
+}
+
+@mixin font-xl {
+    @include font-text;
+    font-size: 1.25em !important;
+}
+
+@mixin font-l {
+    @include font-text;
+    font-size: 1.125em !important;
+}
+
+@mixin font-m {
+    @include font-text;
+}
+
+@mixin font-s {
+    @include font-text;
+    font-size: 0.875em !important;
+}
+
+@mixin font-xs {
+    @include font-text;
+    font-size: 0.75em !important;
+}
+
+@mixin font-body {
+    @include font-m;
+    color: var(--color-gray-600);
+}
+/*#endregion */
+
+/*#region Navigations*/
+@mixin font-navigation {
+    @include font-semibold;
+    line-height: 1.6;
+    color: var(--color-gray-800);
+
+    &:hover {
+        color: var(--color-theme);
+        cursor: pointer;
+    }
+}
+/*#endregion */
+
+
+p {
+    @include font-standard;
+    font-size: 1em;
+    color: var(--color-gray-700);
+}

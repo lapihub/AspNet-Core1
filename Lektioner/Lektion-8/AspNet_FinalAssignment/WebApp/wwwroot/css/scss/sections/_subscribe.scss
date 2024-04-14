@@ -1,0 +1,115 @@
+﻿.subscribe {
+    background-color: var(--color-gray-100);
+    padding: 3rem 0;
+
+    .container {
+        width: 100%; 
+
+        @include md {
+            width: 75%; 
+        }
+
+        @include xl {
+            width: 55%; 
+        }
+    }
+
+    .container .title {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .container .title h2 {
+        font-size: 2em;
+
+        @include md {
+            font-size: 2.25em;
+        }
+
+        @include xl {
+            font-size: 2.5em; 
+        }
+    }
+
+    .container form .alternative {
+        margin: 2rem 0;
+        display: grid;
+        grid-template-columns: 1fr;
+
+        @include md {
+            grid-template-columns: 1fr 3fr; 
+        }
+    }
+
+    .container form .alternative .options {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+
+        @include md {
+            grid-template-columns: repeat(2, 1fr);
+            padding-left: 20px; 
+        }
+
+        @include xl {
+            grid-template-columns: repeat(3, 1fr); 
+            gap: 5px;
+        }
+    }
+
+    .container form .email {
+        display: grid;
+        grid-template-columns: 1fr; 
+        gap: 1rem; 
+
+        button {
+            width: 100%;
+            justify-self: center;
+        }
+
+        @include md {
+            grid-template-columns: 1fr auto; 
+            gap: 1.5rem;
+
+            button {
+                width: auto;
+                justify-self: auto;
+            }
+        }
+    }
+
+    .container .title {
+        display: none;
+
+        @include lg {
+            img, h2 {
+                display: block;
+            }
+        }
+
+        @include xl {
+            display: flex;
+            align-items: center;
+
+            img, h2 {
+                display: block;
+            }
+        }
+    }
+
+    .container form .email .input-group {
+        position: relative;
+    }
+
+    .container form .email .input-group i {
+        position: absolute;
+        left: 20px;
+        top: 17px;
+        font-size: 1.3em;
+    }
+
+    .container form .email .input-group input {
+        padding-left: 55px;
+    }
+}

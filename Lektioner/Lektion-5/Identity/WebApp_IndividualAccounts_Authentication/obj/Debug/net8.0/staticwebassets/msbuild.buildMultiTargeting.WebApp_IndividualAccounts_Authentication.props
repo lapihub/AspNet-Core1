@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApp_IndividualAccounts_Authentication.props" />
+</Project>

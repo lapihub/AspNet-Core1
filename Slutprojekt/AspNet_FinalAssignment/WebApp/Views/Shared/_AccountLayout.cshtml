@@ -1,0 +1,39 @@
+﻿﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] | Silicon</title>
+    <link rel="stylesheet" href="https://kit.fontawesome.com/686402c9d7.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="wrapper">
+        <partial name="~/Views/Partials/Sections/_Header.cshtml" />
+
+
+        <section class="account">
+            <div class="container">
+                <aside>
+                    <partial name="~/Views/Account/_AccountProfile.cshtml" />
+                    <nav class="account-nav">
+                        <a class="btn btn-nav active" asp-action="Details" asp-controller="Account"><i class="fa-regular fa-cog"></i>Account Details</a>
+                        <a class="btn btn-nav" asp-action="SignOut" asp-controller="Auth"><i class="fa-regular fa-arrow-right-from-bracket"></i>Sign Out</a>
+                    </nav>
+                </aside>
+                <main>
+                    @RenderBody()
+                </main>
+            </div>
+        </section>
+
+
+        <partial name="~/Views/Partials/Sections/_Footer.cshtml" />
+    </div>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <partial name="_CookieConsent" />
+
+</body>
+</html>

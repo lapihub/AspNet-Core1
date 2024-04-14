@@ -1,0 +1,51 @@
+﻿.subscribe {
+    background-color: var(--color-gray-100);
+    padding: 4rem 0;
+}
+
+.subscribe .container {
+    width: 55%;
+}
+
+.subscribe .container .title {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.subscribe .container .title h2 {
+    font-size: 2.5em;
+}
+
+.subscribe .container form .alternative {
+    margin: 2rem 0;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+.subscribe .container form .alternative .options {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.subscribe .container form .email {
+    display: grid;
+    align-items: start;
+    grid-template-columns: 1fr auto;
+    gap: 1.5rem;
+}
+
+.subscribe .container form .email .input-group {
+    position: relative;
+}
+
+.subscribe .container form .email .input-group i {
+    position: absolute;
+    left: 20px;
+    top: 17px;
+    font-size: 1.3em;
+}
+
+.subscribe .container form .email .input-group input {
+    padding-left: 55px;
+}
